@@ -3,7 +3,9 @@
   "kind" : "Service",
   "metadata" : {
     "annotations" : {
-      "app.quarkus.io/build-timestamp" : "2020-11-30 - 09:26:46 +0000"
+      "app.quarkus.io/vcs-url" : "https://github.com/mmartofel/quarkus.git",
+      "app.quarkus.io/build-timestamp" : "2020-11-30 - 09:34:49 +0000",
+      "app.quarkus.io/commit-id" : "d572890b996de01ca4ed746309b388789e392f2d"
     },
     "labels" : {
       "app.kubernetes.io/name" : "quarkus-start",
@@ -28,7 +30,9 @@
   "kind" : "Deployment",
   "metadata" : {
     "annotations" : {
-      "app.quarkus.io/build-timestamp" : "2020-11-30 - 09:26:46 +0000"
+      "app.quarkus.io/vcs-url" : "https://github.com/mmartofel/quarkus.git",
+      "app.quarkus.io/build-timestamp" : "2020-11-30 - 09:34:49 +0000",
+      "app.quarkus.io/commit-id" : "d572890b996de01ca4ed746309b388789e392f2d"
     },
     "labels" : {
       "app.kubernetes.io/name" : "quarkus-start",
@@ -47,7 +51,9 @@
     "template" : {
       "metadata" : {
         "annotations" : {
-          "app.quarkus.io/build-timestamp" : "2020-11-30 - 09:26:46 +0000"
+          "app.quarkus.io/vcs-url" : "https://github.com/mmartofel/quarkus.git",
+          "app.quarkus.io/build-timestamp" : "2020-11-30 - 09:34:49 +0000",
+          "app.quarkus.io/commit-id" : "d572890b996de01ca4ed746309b388789e392f2d"
         },
         "labels" : {
           "app.kubernetes.io/name" : "quarkus-start",
